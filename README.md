@@ -6,6 +6,5 @@
 
 
 ## UX Journal
-[Journal Entry 1](https://www.example.com)
+[Journal Entry 1](j01)
 
-[Read about my experience with Bash](j01/)
