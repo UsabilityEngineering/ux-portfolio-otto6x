@@ -1,5 +1,6 @@
 # Skulcandy Sesh Evo User Experience
 ## By Ethan Shelley 2/23/22
+![alt text](Earbuds.jpg)
 The Skullcandy Sesh Evo wireless earbuds don’t have the most user friendly controls to those who haven’t mastered them. The any time a user wants to pair them to a new 
 device they have a laborious method for connection that can feel **ineffective** and **unsatisfactory**. This is due to the method you have to connect them through. First, you must pair
 the individual earbuds to each other, to do this you must set them in their case and after the led turns red you take them out and they are meant to automatically pair to each 
