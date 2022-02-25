@@ -3,6 +3,7 @@
 
 [Back to home page](ux-portfolio-otto6x)
 
+
 ![alt text](Earbuds.jpg)
 
 The Skullcandy Sesh Evo wireless earbuds don’t have the most user friendly controls to those who haven’t mastered them. The any time a user wants to pair them to a new 
@@ -23,5 +24,6 @@ and it will differ depending on the earbud you use. This and the fact that to pe
 reason for this lower **learnability** and **memorability** is because the designer is trying to make the earbuds more **useful** in its capabilities. Overall, from my experience this has 
 only made the earbuds used strictly for playing music. It doesn’t feel worth my time to try and learn the controls when I can still do all the provided actions with my phone (the 
 primary device I use the earbuds with).
+	
 	
 [Back to home page](ux-portfolio-otto6x)
