@@ -7,7 +7,7 @@
 ![alt text](Home.png) 
 
 
-![alt text](HomeMobiole.jpg)
+![alt text](HomeMobiole.jpg | width=100)
 
 
 Spotify is the most popular music streaming service in the United States. And there user interfaces(PC on top, Mobile on bottom), 
