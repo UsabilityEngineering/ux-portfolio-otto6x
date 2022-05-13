@@ -6,7 +6,9 @@
 
 ![alt text](Home.png) 
 
+
 ![alt text](Home Mobiole.jpg)
+
 
 Spotify is the most popular music streaming service in the United States. And there user interfaces(PC on top, Mobile on bottom), 
 are fairly learnable and effective when it comes to playing a song the user desires. Where both interfaces do not excel, however, 
@@ -27,26 +29,34 @@ in search feature on the playlist will allow the user to play any desired song g
 list of songs that will play will be reduced based on the search. So, when the searched song is finished playing it will only pick songs that were filtered into 
 the search and if there are no more it will attempt to play radio which had the potential of running into an error again.
 
+
 ![alt text](Playlist search.png)
+
 
 The workaround to this is not having a particular song to play or using the mobile app instead. Using the mobile app completely avoids the problem of 
 restringing the playlist. This major difference in functionality is not the only kind between the PC and mobile apps.
 
+
 ![alt text](Playlist options.png)
 
+
 ![alt text](Song Optiions Moble.jpg)
+
 
 Other than slight differences in UI presentations and text most features are identical. A difference that reduces the effectiveness of playing from 
 a playlist on mobile is how the search and filtering are presented to the user. 
 
+
 ![alt text](Playlist Home Mobile.jpg)
+
 
 ![alt text](Playlist Search Moblie.jpg)
 
-When opening a playlist on mobile you are presented with a home screen for the playlist (left). Seeing the songs fade to the bottom of the screen clearly 
+
+When opening a playlist on mobile you are presented with a home screen for the playlist (top). Seeing the songs fade to the bottom of the screen clearly 
 conveys to the user that they can scroll down. And in the middle, there is a multitude of buttons including a “more” button (the three vertical dots). If the 
 user were to try to search for a song they would look at the middle section and see no search feature, then they would open the “more” screen. However, they 
-will not be presented with a search function nor will they see a filter option either. Instead, the correct method to navigate to the search option(right) is 
+will not be presented with a search function nor will they see a filter option either. Instead, the correct method to navigate to the search option(bottom) is 
 to scroll up. This ability is not made apparent to the user in any way. I personally only heard of this last year and I have been using Spotify on my phone 
 for over 6 years ago. Another major functionality difference between the two apps is the “Enhance” button on the home page of a playlist. This is only available 
 for Mobile even though both apps will play from the same playlist. This feature allows the user to automatically add songs to a playlist based on what is in 
