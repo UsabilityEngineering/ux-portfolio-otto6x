@@ -4,7 +4,7 @@
 [Back to home page](ux-portfolio-otto6x)
 
 
-![alt text]()
+![alt text](Home.png) ![alt text](Home Mobiole.jpg)
 Spotify is the most popular music streaming service in the United States. And there user interfaces(PC on left, Mobile on right), 
 are fairly learnable and effective when it comes to playing a song the user desires. Where both interfaces do not excel, however, 
 is when a user tries to play music not readily available on the home screen or to play a specific song. Doing these task are not efficient, 
