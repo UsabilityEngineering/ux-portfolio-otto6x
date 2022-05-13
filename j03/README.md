@@ -7,7 +7,7 @@
 ![alt text](Home.png) 
 
 
-![alt text](Home Mobiole.jpg)
+![alt text](HomeMobiole.jpg)
 
 
 Spotify is the most popular music streaming service in the United States. And there user interfaces(PC on top, Mobile on bottom), 
@@ -30,27 +30,27 @@ list of songs that will play will be reduced based on the search. So, when the s
 the search and if there are no more it will attempt to play radio which had the potential of running into an error again.
 
 
-![alt text](Playlist search.png)
+![alt text](Playlistsearch.png)
 
 
 The workaround to this is not having a particular song to play or using the mobile app instead. Using the mobile app completely avoids the problem of 
 restringing the playlist. This major difference in functionality is not the only kind between the PC and mobile apps.
 
 
-![alt text](Playlist options.png)
+![alt text](Playlistoptions.png)
 
 
-![alt text](Song Optiions Moble.jpg)
+![alt text](SongOptiionsMoble.jpg)
 
 
 Other than slight differences in UI presentations and text most features are identical. A difference that reduces the effectiveness of playing from 
 a playlist on mobile is how the search and filtering are presented to the user. 
 
 
-![alt text](Playlist Home Mobile.jpg)
+![alt text](PlaylistHomeMobile.jpg)
 
 
-![alt text](Playlist Search Moblie.jpg)
+![alt text](PlaylistSearchMoblie.jpg)
 
 
 When opening a playlist on mobile you are presented with a home screen for the playlist (top). Seeing the songs fade to the bottom of the screen clearly 
